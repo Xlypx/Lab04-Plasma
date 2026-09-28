@@ -1,7 +1,6 @@
 # Lab04-Plasma# 
 
-Group Name
-Plasma
+Assignment - Bank
 
 Who Did What
 | Member | ID | Task |
