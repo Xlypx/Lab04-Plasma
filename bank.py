@@ -12,8 +12,3 @@ class BankAccount:
         if amount > self.balance:
             raise ValueError("Insufficient funds")
         self.balance -= amount
-<<<<<<< HEAD
-        return self.balance
-=======
-        return self.balance
->>>>>>> 312d9ff8ebd8eede0788d5629e2b15b75221da3c
